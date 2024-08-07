@@ -1,2 +1,3 @@
-# cli
-OS Native Services for Usager
+# Usager
+
+OS Native Service for usager.io

@@ -1,0 +1,15 @@
+{
+  "name": "usager",
+  "description": "OS Native Service for usager.io",
+  "version": "0.0.0-alpha.1",
+  "license": "Apache License 2.0",
+  "author": "lin pengteng <china.linpengteng@gmail.com>",
+  "keywords": [
+    "command",
+    "nodejs",
+    "cli"
+  ],
+  "files": [
+    "dist"
+  ]
+}
